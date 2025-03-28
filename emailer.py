@@ -9,8 +9,8 @@ from time import sleep
 # sender: The email address of the sender.
 # password: The password or app-specific password for the sender's email account.
 # attachment_file_paths: List of file paths to attach to emails.
-sender = "ahsan0naeem@gmail.com"
-password = "wdmwqlpxpvffyslg"
+sender = "" #enter your email
+password = "" # create an App Password
 attachment_file_paths = ["sample.docx"]
 
 if __name__ == "__main__":
