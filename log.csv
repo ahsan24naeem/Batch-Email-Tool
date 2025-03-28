@@ -1,0 +1,11 @@
+Recipient,Status,DateTime,Error
+
+,invalid,2025-03-28 16:16:13.725093
+l230517@lhr.nu.edu.pk,error,2025-03-28 16:16:13.777770,header value appears to contain an embedded header: '\nUrgent: CV Submission Correction Required for Job Fair'
+,invalid,2025-03-28 16:16:59.209642
+l230517@lhr.nu.edu.pk,success,2025-03-28 16:17:02.464495
+l236012@lhr.nu.edu.pk,success,2025-03-28 16:18:13.749964
+l230517@lhr.nu.edu.pk,success,2025-03-28 16:18:21.082957
+l230517@lhr.nu.edu.pk,success,2025-03-28 16:19:35.025691
+l236012@lhr.nu.edu.pk,success,2025-03-28 16:21:22.770077
+l230517@lhr.nu.edu.pk,success,2025-03-28 16:21:30.268553
